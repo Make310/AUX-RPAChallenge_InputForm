@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KnTei1uVy0CAKkpyIf-efw" Reference="R2DMJAGMEEmlsbiKX4rcbw/zN1j2e9PEkKEEmZUD2SYlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpachallenge.com" ContentHash="7STY5xnpwEyWnd-MFAINNg" DesignTimeRectangle="19, 933, 614, 36" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname=' Download Excel cloud_download' tag='A' /&gt;" FuzzyAccuracy="0.47" Guid="aa7e7aad-4968-43de-85d8-f8aa43f10d03" ImageBase64="" Reference="R2DMJAGMEEmlsbiKX4rcbw/zN1j2e9PEkKEEmZUD2SYlg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1cceee33e2d5302dc28ba9d227a25d8b.png" xmlns="">0KtWNDgBIRkSfGjpHARvd5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

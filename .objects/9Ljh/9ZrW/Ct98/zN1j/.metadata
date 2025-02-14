@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Validate RPA Challenge Page Load",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "zN1j2e9PEkKEEmZUD2SYlg",
+  "Reference": "R2DMJAGMEEmlsbiKX4rcbw/zN1j2e9PEkKEEmZUD2SYlg",
+  "ParentRef": "R2DMJAGMEEmlsbiKX4rcbw/Ct98pBcZm0WKkHgsfL8FFw",
+  "Created": "2025-02-14T04:13:57.8330682Z",
+  "Updated": "2025-02-14T04:13:57.8330682Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
